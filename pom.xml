@@ -6,7 +6,7 @@
 
     <groupId>groupId</groupId>
     <artifactId>Google-Images</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
 
     <properties>
         <src.dir>src/main/java</src.dir>
