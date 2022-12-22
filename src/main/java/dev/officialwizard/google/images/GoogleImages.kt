@@ -1,4 +1,4 @@
-package sh.hyrule.google.images
+package dev.officialwizard.google.images
 
 import org.jsoup.Connection
 import org.jsoup.Jsoup
